@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## I'm Vladimir Sazonov, the student of Peter The Great Polytechnic University.
 ## This profile on Github was made as the starting point of learning based programming on python
+Group: 4931101/40003
 <!--
 **Vladimir961Saz/Vladimir961Saz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
